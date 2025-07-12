@@ -2,7 +2,9 @@
 
 Automatically restarts repeat battle and posts expos.
 
-Might do expos in the future.
+CURRENTLY IT WILL ALWAYS REFRESH YOUR ENERGY WITH WHATEVER YOU HAVE.
+
+DOES NOT HANDLE GEAR SO ENSURE INVENTORY HAS LOTS OF SPACE
 
 ## Setup
 
